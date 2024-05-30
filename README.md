@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @D9Mar
 - 🌱 I’m currently learning Swift
+- Also i am learning HTML, CSS and JavaScript
 
 <!---
 D9Mar/D9Mar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
