@@ -1,3 +1,14 @@
-Hola, soy David y estoy empezando a programar.
-De momento estoy aprendiendo HTML, CSS y JavaScript.
-Poco a poco quiero ir aprendiendo otros lenguajes como Python.
+# Hola, soy David
+
+Desarrollador web junior con experiencia en aplicaciones Java y Angular, actualmente cursando el Máster en Desarrollo Full Stack en la UNIR.
+
+## Stack
+- **Backend:** Java
+- **Frontend:** Angular
+- **Herramientas:** Git, IntelliJ IDEA, VS Code
+
+## Proyectos
+Próximamente: aquí irán los proyectos del máster.
+
+## Contacto
+- [LinkedIn](tu-enlace)
