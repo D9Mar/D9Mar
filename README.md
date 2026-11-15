@@ -1,11 +1,14 @@
 # Hola, soy David
 
-Desarrollador web junior con experiencia en aplicaciones Java y Angular, actualmente cursando el Máster en Desarrollo Full Stack en la UNIR.
+Desarrollador web cursando el Máster en Desarrollo Full Stack en la UNIR.
 
 ## Stack
-- **Backend:** Java
-- **Frontend:** Angular
+- **Lenguajes:** Java, HTML, CSS
 - **Herramientas:** Git, IntelliJ IDEA, VS Code
+
+## Aprendiendo
+- Python
+- Angular, TypeScript
 
 ## Proyectos
 Próximamente: aquí irán los proyectos del máster.
