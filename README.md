@@ -14,4 +14,4 @@ Desarrollador web cursando el Máster en Desarrollo Full Stack en la UNIR.
 Próximamente: aquí irán los proyectos del máster.
 
 ## Contacto
-- [LinkedIn](www.linkedin.com/in/davidmartinezfdez)
+- [LinkedIn](https://www.linkedin.com/in/davidmartinezfdez)
